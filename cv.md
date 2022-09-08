@@ -6,6 +6,8 @@
 
 Уже обучился таким языкам программирования как HTML и CSS.
 
+Знания английского: B1
+
 # Контактные данные
 Saykov2008@yandex.ru (Yandex почта)
 Или brimstoneseele@gmail.com
